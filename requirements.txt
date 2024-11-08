@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+sqlalchemy
+xgboost
+jupyter
+pyjanitor
+scikit-plot
+yellowbrick
+imbalanced-learn
+jupyter_contrib_nbextensions
+cloudpickle
+category_encoders
