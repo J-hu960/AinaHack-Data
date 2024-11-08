@@ -1,0 +1,42 @@
+2024-11-08 21:24:06,542 - INFO - Iniciando conversión de archivos en: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\03_Notebooks\03_Trabajo
+2024-11-08 21:24:06,544 - ERROR - Error durante la conversión: El directorio c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\03_Notebooks\03_Trabajo no existe
+2024-11-08 21:24:06,544 - ERROR - Error en la ejecución principal: El directorio c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\03_Notebooks\03_Trabajo no existe
+2024-11-08 21:24:50,598 - INFO - Iniciando conversión de archivos en: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo
+2024-11-08 21:24:50,601 - INFO - Encontrados 18 archivos pickle para convertir
+2024-11-08 21:24:50,602 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\2022-accions-formatives.pickle
+2024-11-08 21:24:50,613 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\2022-accions-formatives.csv
+2024-11-08 21:24:50,615 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\2023_centres_civics_activitats_formacio.pickle
+2024-11-08 21:24:50,619 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\2023_centres_civics_activitats_formacio.csv
+2024-11-08 21:24:50,622 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\2024_accions_formatives_previstes_consorci.pickle
+2024-11-08 21:24:50,736 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\2024_accions_formatives_previstes_consorci.csv
+2024-11-08 21:24:50,737 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\2024_cursos_servei_ocupacio.pickle
+2024-11-08 21:24:50,758 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\2024_cursos_servei_ocupacio.csv
+2024-11-08 21:24:50,760 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\cat_2022-accions-formatives.pickle
+2024-11-08 21:24:50,765 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\cat_2022-accions-formatives.csv
+2024-11-08 21:24:50,767 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\cat_2023_centres_civics_activitats_formacio.pickle
+2024-11-08 21:24:50,771 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\cat_2023_centres_civics_activitats_formacio.csv
+2024-11-08 21:24:50,772 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\cat_2024_accions_formatives_previstes_consorci.pickle
+2024-11-08 21:24:50,848 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\cat_2024_accions_formatives_previstes_consorci.csv
+2024-11-08 21:24:50,849 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\cat_2024_cursos_servei_ocupacio.pickle
+2024-11-08 21:24:50,865 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\cat_2024_cursos_servei_ocupacio.csv
+2024-11-08 21:24:50,866 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\cat_opendatabcn_educacio_ensenyament_no-reglat.pickle
+2024-11-08 21:24:50,880 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\cat_opendatabcn_educacio_ensenyament_no-reglat.csv
+2024-11-08 21:24:50,881 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\cat_opendatabcn_educacio_ensenyament_reglat.pickle
+2024-11-08 21:24:50,918 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\cat_opendatabcn_educacio_ensenyament_reglat.csv
+2024-11-08 21:24:50,920 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\num_2022-accions-formatives.pickle
+2024-11-08 21:24:50,924 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\num_2022-accions-formatives.csv
+2024-11-08 21:24:50,926 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\num_2023_centres_civics_activitats_formacio.pickle
+2024-11-08 21:24:50,930 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\num_2023_centres_civics_activitats_formacio.csv
+2024-11-08 21:24:50,932 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\num_2024_accions_formatives_previstes_consorci.pickle
+2024-11-08 21:24:50,942 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\num_2024_accions_formatives_previstes_consorci.csv
+2024-11-08 21:24:50,943 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\num_2024_cursos_servei_ocupacio.pickle
+2024-11-08 21:24:50,954 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\num_2024_cursos_servei_ocupacio.csv
+2024-11-08 21:24:50,955 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\num_opendatabcn_educacio_ensenyament_no-reglat.pickle
+2024-11-08 21:24:50,968 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\num_opendatabcn_educacio_ensenyament_no-reglat.csv
+2024-11-08 21:24:50,969 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\num_opendatabcn_educacio_ensenyament_reglat.pickle
+2024-11-08 21:24:50,997 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\num_opendatabcn_educacio_ensenyament_reglat.csv
+2024-11-08 21:24:50,998 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\opendatabcn_educacio_ensenyament_no-reglat.pickle
+2024-11-08 21:24:51,016 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\opendatabcn_educacio_ensenyament_no-reglat.csv
+2024-11-08 21:24:51,017 - INFO - Procesando archivo: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\opendatabcn_educacio_ensenyament_reglat.pickle
+2024-11-08 21:24:51,075 - INFO - Archivo convertido exitosamente: c:\Users\Usuario\Downloads\YTT\AINAHACK\AinaHack-Data\02_Datos\03_Trabajo\opendatabcn_educacio_ensenyament_reglat.csv
+2024-11-08 21:24:51,075 - INFO - Proceso de conversión completado
